@@ -1,0 +1,6 @@
+[submodule "ext/xml-parser"]
+	path = ext/xml-parser
+	url = https://github.com/dylan-lang/xml-parser
+[submodule "ext/http"]
+	path = ext/http
+	url = https://github.com/dylan-lang/http
